@@ -30,6 +30,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Jira from scratch - project management](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 * [Postman from scratch - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 * [Website Development Course part I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/)
+* [uTest Academy](https://utest.com)
 # Books
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB poziom podstawowy
 # Groups on Facebook
@@ -38,8 +39,10 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * Girls Who Tests
 * Gildia Testerów
 * Cherry IT
-# My test case examples
 # My bug reports
 # My projects
+* Projekt belka już niedługo
+* Projekt kebab już niedługo
+* Projekt Cherry IT jak mnie przyjmą
 
 
