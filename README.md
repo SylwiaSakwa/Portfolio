@@ -25,30 +25,44 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * HTML, CSS
 * Phyton
 * Linux
-# Certificates
+
+## Certificates
+
 * [Become a QA or software tester](https://www.udemy.com/certificate/UC-c2c66487-fa4b-4e97-936d-449274b35055/)
 * [Jira from scratch - project management](https://www.udemy.com/certificate/UC-20d54e62-1c30-4e89-afc1-ea4109db748f/)
 * [Postman from scratch - REST API testing](tutaj będzie link jak zdam)
 * [Website Development Course part I - HTML, CSS, RWD](tutaj będzie link jak zdam)
-# Courses
+
+## Courses
+
 * [Become a QA or software tester](https://www.udemy.com/course/zostan-qa-od-zera/)
 * [Jira from scratch - project management](https://www.udemy.com/course/kurs-jira-od-podstaw-zarzadzanie-projektami/)
 * [Postman from scratch - REST API testing](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 * [Website Development Course part I - HTML, CSS, RWD](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/)
 * [uTest Academy](https://utest.com)
-# Books
+
+## Books
+
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB poziom podstawowy
-# Groups on Facebook
+
+## Groups on Facebook
+
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Girls Who Tests
 * Gildia Testerów
 * Cherry IT
-# My bug reports
-# Testing Reports
-# Test cases
-# Test scenarios
-# My projects
+
+## My bug reports
+
+## Testing Reports
+
+## Test cases
+
+## Test scenarios
+
+## My projects
+
 * Projekt belka już niedługo
 * Projekt kebab już niedługo
 * Projekt Cherry IT jak mnie przyjmą
