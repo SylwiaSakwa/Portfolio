@@ -40,6 +40,9 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * Gildia Testerów
 * Cherry IT
 # My bug reports
+# Testing Reports
+# Test cases
+# Test scenarios
 # My projects
 * Projekt belka już niedługo
 * Projekt kebab już niedługo
