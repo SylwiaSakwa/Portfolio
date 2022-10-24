@@ -7,6 +7,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 ## Tools
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
+* [AzureDevops](https://azure.microsoft.com/pl-pl/products/devops/#overview) - Issue tracking and project management tool for developers
 * [TestLink](https://testlink.org/) - Online test management system
 * [Web Launch Recorder](https://screencast-o-matic.com/screen-recorder) - Screen capture software
 * [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
@@ -30,7 +31,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 
 * [Become a QA or software tester](https://www.udemy.com/certificate/UC-c2c66487-fa4b-4e97-936d-449274b35055/)
 * [Jira from scratch - project management](https://www.udemy.com/certificate/UC-20d54e62-1c30-4e89-afc1-ea4109db748f/)
-* [Postman from scratch - REST API testing](tutaj będzie link jak zdam)
+* [Postman from scratch - REST API testing](https://www.udemy.com/certificate/UC-bd9b4ac1-0f5e-45f9-b028-e682cc4bc1e9/)
 * [Website Development Course part I - HTML, CSS, RWD](tutaj będzie link jak zdam)
 
 ## Courses
@@ -63,8 +64,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 
 ## My projects
 
-* Projekt belka już niedługo
-* Projekt kebab już niedługo
-* Projekt Cherry IT jak mnie przyjmą
+* Projekt belka 
+* Projekt kebab 
+* Projekt Cherry IT 
 
 
