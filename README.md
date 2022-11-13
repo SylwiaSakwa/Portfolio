@@ -32,7 +32,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Become a QA or software tester](https://www.udemy.com/certificate/UC-c2c66487-fa4b-4e97-936d-449274b35055/)
 * [Jira from scratch - project management](https://www.udemy.com/certificate/UC-20d54e62-1c30-4e89-afc1-ea4109db748f/)
 * [Postman from scratch - REST API testing](https://www.udemy.com/certificate/UC-bd9b4ac1-0f5e-45f9-b028-e682cc4bc1e9/)
-* [Website Development Course part I - HTML, CSS, RWD](tutaj będzie link jak zdam)
+* [Website Development Course part I - HTML, CSS, RWD](kurs w trakcie)
+* [Selenium i Python](kurs w trakcie)
 
 ## Courses
 
@@ -57,12 +58,12 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 ## My bug reports
 
 1. [uTest](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
-* [Introduction to Testing](https://drive.google.com/drive/u/0/folders/1qRtKuNh_ZkpcvuJVhAHUMP1UxEXn0lWC) - [Bug 1](https://drive.google.com/file/d/1anQlbIaiIZMNCzsq_0_Aaz3dDqRWsBME/view)
-* [Computers](https://drive.google.com/drive/u/0/folders/1L3gybyYXGvvzMfIL4HK9-UQL9tV0LtmP) - [Bug 1](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing), [Bug 2](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing)
-* [Mobile Devices]
-* [Charles Proxy]
-* [Challenge 1]
-* [Challenge 2]
+* [Introduction to Testing](https://drive.google.com/drive/u/0/folders/1qRtKuNh_ZkpcvuJVhAHUMP1UxEXn0lWC) - [Bug1](https://drive.google.com/file/d/1anQlbIaiIZMNCzsq_0_Aaz3dDqRWsBME/view)
+* [Computers](https://drive.google.com/drive/u/0/folders/1L3gybyYXGvvzMfIL4HK9-UQL9tV0LtmP) - [Bug1](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing), [Bug2](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing)
+* [Mobile Devices](https://drive.google.com/drive/u/0/folders/1lsq30dzI1CQwgSqQ-4LaJK3BrweQ-TQm) - [Bug1](https://drive.google.com/drive/u/0/folders/1lsq30dzI1CQwgSqQ-4LaJK3BrweQ-TQm)
+* [Charles Proxy](https://drive.google.com/drive/u/0/folders/1-IDYIHBXM-4vy_1xYtcRID20FgIjqrVo) - [Bug1](https://drive.google.com/drive/u/0/folders/1-IDYIHBXM-4vy_1xYtcRID20FgIjqrVo), [Bug2](https://drive.google.com/drive/u/0/folders/1-IDYIHBXM-4vy_1xYtcRID20FgIjqrVo)
+* [Challenge 1](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE) - [Bug1](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE), [Bug2](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE), [Bug3](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE), [Bug4](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE), [Bug5](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE), [Bug6](https://drive.google.com/drive/u/0/folders/17xMY9a7ZRA2ClvKe7plYo2f49es6imZE)
+* [Challenge 2](https://drive.google.com/drive/u/0/folders/1L7jYV64_VBDCbYrOfJFhCNunKbarV4v6)
 
 2. Project BeanAnalyzer
 
