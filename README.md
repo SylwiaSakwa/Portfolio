@@ -14,6 +14,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Github](https://github.com/) - Hosting website dedicated to programming projects
 * [Canva](https://www.canva.com/) - A tool for creating graphic designs
 * [BlazeMeter](https://www.blazemeter.com/) - Load testing platform
+* [Android Studio](https://developer.android.com/studio) - The source for the IntelliJ IDEA development environment for developing, testing and debugging Android applications
+* [Charles Proxy](https://www.charlesproxy.com/) - Cross-platform HTTP debugging proxy application written in Java
 
 ## Tech skills
 
@@ -74,7 +76,6 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * Girls Who Tests
 * Gildia Testerów
 * Cherry IT
-
 
 
 
