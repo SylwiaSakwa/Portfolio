@@ -56,6 +56,18 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 
 ## My bug reports
 
+1. [uTest](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
+* [Introduction to Testing]
+* [Computers]
+* [Mobile Devices]
+* [Charles Proxy]
+* [Challenge 1]
+* [Challenge 2]
+
+2. Project BeanAnalyzer
+
+3. Cherry IT
+
 ## Testing Reports
 
 ## Test cases
