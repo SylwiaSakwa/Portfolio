@@ -57,7 +57,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 ## My bug reports
 
 1. [uTest](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
-* [Introduction to Testing]
+* [Introduction to Testing](https://drive.google.com/drive/u/0/folders/1qRtKuNh_ZkpcvuJVhAHUMP1UxEXn0lWC)-[Bug 1](https://drive.google.com/drive/u/0/folders/1qRtKuNh_ZkpcvuJVhAHUMP1UxEXn0lWC)
 * [Computers]
 * [Mobile Devices]
 * [Charles Proxy]
