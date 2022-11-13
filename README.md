@@ -45,7 +45,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 
 ## My bug reports
 
-1. [uTest](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
+### 1. [uTest](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
 * [Introduction to Testing](https://drive.google.com/drive/u/0/folders/1qRtKuNh_ZkpcvuJVhAHUMP1UxEXn0lWC) - [Bug1](https://drive.google.com/file/d/1anQlbIaiIZMNCzsq_0_Aaz3dDqRWsBME/view)
 * [Computers](https://drive.google.com/drive/u/0/folders/1L3gybyYXGvvzMfIL4HK9-UQL9tV0LtmP) - [Bug1](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing), [Bug2](https://drive.google.com/file/d/1ON_zWC_p0c362YqQr-Dhg_cxtWttUxP2/view?usp=sharing)
 * [Mobile Devices](https://drive.google.com/drive/u/0/folders/1lsq30dzI1CQwgSqQ-4LaJK3BrweQ-TQm) - [Bug1](https://drive.google.com/file/d/1f0MYk1zX_R6oyairUI1ZUJLHLC-yLjju/view?usp=share_link)
@@ -54,9 +54,10 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Challenge 2](https://drive.google.com/drive/u/0/folders/1L7jYV64_VBDCbYrOfJFhCNunKbarV4v6) - [Bug1](https://drive.google.com/drive/u/0/folders/1L7jYV64_VBDCbYrOfJFhCNunKbarV4v6)
 * [Academy All Stars](https://drive.google.com/drive/u/0/folders/1mebFJ4xMoD5-_EmcSEYpfjn4NxpB7BA9) - [Bug1](https://drive.google.com/file/d/1F5i8VWDimvFtjuHsbdCMDlTpz1pIidXV/view?usp=share_link), [Bug2](https://drive.google.com/file/d/1eLgycJZhYvArOW4Kv5jV7a7VwKakWBiB/view?usp=share_link), [Bug3](https://drive.google.com/file/d/1zLnL8MTAmB6PSQxId29qXqm-eCISmd6o/view?usp=share_link), [Bug4](https://drive.google.com/file/d/1izd4qJeN05EWx4xNq-imvvF9tTxkaWMh/view?usp=share_link), [Bug5](https://drive.google.com/file/d/1N9nW8zJXJ7B2_v8YBjKATXHmJmZhSRsV/view?usp=share_link)
 
-2. Project BeanAnalyzer
+### 2. [Project BeamAnalyzer](https://drive.google.com/drive/u/0/folders/1BqxevPRRwLzgmvQriik_2HbtSRZJMW3L)
+* [Bug256](https://drive.google.com/file/d/1vAQwGPPf1Z41eQ2CHw9hCu6Nqnpe_ydm/view?usp=share_link), [Bug257](https://drive.google.com/file/d/109K5qxodWJzSSIqERLFBxvMEUuc12xdC/view?usp=share_link), [Bug258](https://drive.google.com/file/d/1LqbOVkmeqsWdQ40NcdnjZCx6xPC7w9nu/view?usp=share_link), [Bug259](https://drive.google.com/file/d/1blL-lCAe2a4pMT8NWIqAUIvY97sGJQP-/view?usp=share_link), [Bug260](https://drive.google.com/file/d/1-KDZtom0vy25FQK5UxRAZVwybjYGvZ1f/view?usp=share_link), [Bug261](https://drive.google.com/file/d/1SGhTPp8xhO261g39fLONsxn9ZPQSylj2/view?usp=share_link), [Bug267](https://drive.google.com/file/d/1sjpdHeu6xozx2IpndMWBTElDmIx3Dbmj/view?usp=share_link), [Bug268](https://drive.google.com/file/d/1xsHCHkkUYzH_zB0TlJ_EHqC2v_eFSXwJ/view?usp=share_link), [Bug270](https://drive.google.com/file/d/1MPWoQTHyegG0O_pJ3-SmZJeTK9lDifUW/view?usp=share_link), [Bug272](https://drive.google.com/file/d/19R1cRdgVfB-EDxWWkK6r2fpJfuduJ_PY/view?usp=share_link)
 
-3. Cherry IT
+### 3. Cherry IT
 
 
 ## Books
