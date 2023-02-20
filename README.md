@@ -8,6 +8,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 
 ## My Project
 
+### 1. [My CV............[HTML]](https://sylwiasakwa.netlify.app/)
+
 ### 1. [uTest Academy...................[DevTools, Android Mobile]](https://drive.google.com/drive/u/0/folders/1boXiCvDKwE8lj6OfietkmcX5N_8VAJM3)
 * [Bug reports](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
 
