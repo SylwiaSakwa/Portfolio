@@ -34,7 +34,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Bug reports](https://drive.google.com/drive/u/0/folders/1lsWcnE-UXPMtvifN16eZDvAiJ1IJqDc9)
 * [Test cases](https://drive.google.com/drive/u/0/folders/1tT601dDDksIsy6Wfd9tBIZg4n-GTiOX9)
 
-### 9. [Add filter REST API...............[Postman]](https://drive.google.com/drive/u/0/folders/1_atCK4NbTdrEmBqEFtwXopHVMGzfkN7q)
+### 9. [Add filter REST API...............[Postman, Jira]](https://drive.google.com/drive/u/0/folders/1_atCK4NbTdrEmBqEFtwXopHVMGzfkN7q)
 
 
 
