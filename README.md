@@ -4,6 +4,40 @@
 
 My name is Sylwia Sakwa. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
 
+
+
+## My Project
+
+### 1. [uTest Academy...................[DevTools, Android Mobile]](https://drive.google.com/drive/u/0/folders/1boXiCvDKwE8lj6OfietkmcX5N_8VAJM3)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
+
+### 2. [Project Kebab...................[Jira]](https://drive.google.com/drive/u/0/folders/1TFE319GqvE0ngcJyG8SXmPE0_zLNLAQU)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1f13wG-MqGGFsMxFNtsFfN6b_PsJ3p49X)
+
+### 3. [Cherry IT ......................[Trello]](https://drive.google.com/drive/u/0/folders/1YjxcM-LlYY_bblYpBpC9G476eo--bQ4g)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1L8I_gfRPpNT615oyaZ2JzXjKgw8unI0t)
+
+### 4. [Project Belka...................[AzureDevops]](https://drive.google.com/drive/u/0/folders/1vPTcLCrJOsXOoq9FJe1dV_CE30SmfUg0)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1BqxevPRRwLzgmvQriik_2HbtSRZJMW3L)
+
+### 5. [ToDoList........................[Jira, TestLink]](https://drive.google.com/drive/u/0/folders/13mNngo2gYCy1A_bwp3PHxlGbISJ5Fibn)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1jrar-icFzSVyZSW1AoTxmRGj-zmTGCOu)
+* [Test cases](https://drive.google.com/drive/u/0/folders/1Zn6FWmIEn47mmGCKqV_IDO3qSYGE2YDG)
+
+### 6. [Shop List.......................[Trello]](https://drive.google.com/drive/u/0/folders/16Fk9c4vj8HrzCddaDVA4vRzGn6CZZAp-)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/13tbuqe9ciR_pY_LSY8UJc-tmCcmkewSa)
+
+### 7. [AcademyBugs......................[Trello](https://drive.google.com/drive/u/0/folders/1-cBeJxf8-K6qwtOW1YEFW7rzCmIrOSSp)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1HHjzvt9OzrQxWXWnMxwoQQpu_bbJb7UY)
+
+### 8. [Project GoIT......................[Jira, TestRail]](https://drive.google.com/drive/u/0/folders/1AmKxSiP1WUkAdy0hYJ2BkFfxxl-FKr-B)
+* [Bug reports](https://drive.google.com/drive/u/0/folders/1lsWcnE-UXPMtvifN16eZDvAiJ1IJqDc9)
+* [Test cases](https://drive.google.com/drive/u/0/folders/1tT601dDDksIsy6Wfd9tBIZg4n-GTiOX9)
+
+### 9. [Add filter REST API...............[Postman]](https://drive.google.com/drive/u/0/folders/1_atCK4NbTdrEmBqEFtwXopHVMGzfkN7q)
+
+
+
 ## Tools
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
@@ -18,6 +52,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Charles Proxy](https://www.charlesproxy.com/) - Cross-platform HTTP debugging proxy application written in Java
 * DevTools
 
+
+
 ## Tech skills
 
 * SQL
@@ -30,6 +66,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * Linux
 * GIT
 
+
+
 ## Certificates
 
 * [Become a QA or software tester](https://www.udemy.com/certificate/UC-c2c66487-fa4b-4e97-936d-449274b35055/)
@@ -37,6 +75,8 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [Postman from scratch - REST API testing](https://www.udemy.com/certificate/UC-bd9b4ac1-0f5e-45f9-b028-e682cc4bc1e9/)
 * [Website Development Course part I - HTML, CSS, RWD](kurs w trakcie)
 * [Selenium i Python](kurs w trakcie)
+
+
 
 ## Courses
 
@@ -47,22 +87,13 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 * [uTest Academy](https://utest.com)
 * [SQL - query language for the SQL Server database](https://www.udemy.com/course/kurs-sql/?src=sac&kw=sql+jezyk+zapytan+do+bazy)
 
-## My Project
-
-### 1. [uTest Academy...................](https://drive.google.com/drive/u/0/folders/1boXiCvDKwE8lj6OfietkmcX5N_8VAJM3)
-* [Bug reports](https://drive.google.com/drive/u/0/folders/1WpumTu7134zbpF_lAPPzTeuv9pAlYLL_)
-
-### 2. [Project Kebab](https://drive.google.com/drive/u/0/folders/1TFE319GqvE0ngcJyG8SXmPE0_zLNLAQU)
-* [Bug reports](https://drive.google.com/drive/u/0/folders/1f13wG-MqGGFsMxFNtsFfN6b_PsJ3p49X)
-
-### 3. [Cherry IT .......[Trello]]()
-
-### 4. [Cherry IT](https://drive.google.com/drive/u/0/folders/1YjxcM-LlYY_bblYpBpC9G476eo--bQ4g)
 
 
 ## Books
 
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB poziom podstawowy
+
+
 
 ## Groups on Facebook
 
