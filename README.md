@@ -27,7 +27,7 @@ My name is Sylwia Sakwa. Recently I have started to interest of software testing
 ### 6. [Shop List.......................[Trello]](https://drive.google.com/drive/u/0/folders/16Fk9c4vj8HrzCddaDVA4vRzGn6CZZAp-)
 * [Bug reports](https://drive.google.com/drive/u/0/folders/13tbuqe9ciR_pY_LSY8UJc-tmCcmkewSa)
 
-### 7. [AcademyBugs......................[Trello](https://drive.google.com/drive/u/0/folders/1-cBeJxf8-K6qwtOW1YEFW7rzCmIrOSSp)
+### 7. [AcademyBugs......................[Trello]](https://drive.google.com/drive/u/0/folders/1-cBeJxf8-K6qwtOW1YEFW7rzCmIrOSSp)
 * [Bug reports](https://drive.google.com/drive/u/0/folders/1HHjzvt9OzrQxWXWnMxwoQQpu_bbJb7UY)
 
 ### 8. [Project GoIT......................[Jira, TestRail]](https://drive.google.com/drive/u/0/folders/1AmKxSiP1WUkAdy0hYJ2BkFfxxl-FKr-B)
